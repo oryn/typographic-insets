@@ -34,7 +34,15 @@ img {
   width: 100%;
 }
 
-
+blockquote {
+  border-bottom: 3px solid #222;
+  border-top: 3px solid #222;
+  font-size: 20pt;
+  color: grey;
+  float: left;
+  width: 40%;
+  margin: 0.5rem 0.5rem 0.5rem -4rem;
+}
 
 .wrapper {
   margin: 0 auto;
