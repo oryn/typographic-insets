@@ -19,7 +19,14 @@ body {
   margin: 0;
 }
 
-
+figure {
+  float: right;
+  border-bottom: 3px solid #222;
+  border-top: 3px solid #222;
+  width: 40%;
+  font-style: italic;
+  margin: 0 -10rem 0 0;
+}
 
 img {
   display: block;
